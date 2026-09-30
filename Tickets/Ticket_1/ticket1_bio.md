@@ -13,11 +13,8 @@ User reported that their computer was running slowly. Applications were taking l
 
 I opened Task Manager and checked CPU, memory, and disk usage.
 
- Resource  Before  After 
- --------  -----:  ----: 
- CPU          17%     5% 
- Memory       78%    63% 
- Disk          5%     2% 
+Before: CPU = 17%, Memory = 78%, Disk = 5%
+After: CPU = 5%, Memory = 63%, Disk = 2%
 
 I then checked the Processes tab to see which programs were using the most resources.
 
